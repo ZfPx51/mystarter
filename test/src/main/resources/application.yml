@@ -1,0 +1,5 @@
+splicing:
+  service :
+    enabled : false
+    prefix : AAA
+    suffix : BBB

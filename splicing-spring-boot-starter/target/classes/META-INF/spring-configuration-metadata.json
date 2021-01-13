@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "splicing.service",
+      "type": "com.abc.splicingspringbootstater.config.SplicingServiceProperties",
+      "sourceType": "com.abc.splicingspringbootstater.config.SplicingServiceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "splicing.service.prefix",
+      "type": "java.lang.String",
+      "sourceType": "com.abc.splicingspringbootstater.config.SplicingServiceProperties"
+    },
+    {
+      "name": "splicing.service.suffix",
+      "type": "java.lang.String",
+      "sourceType": "com.abc.splicingspringbootstater.config.SplicingServiceProperties"
+    }
+  ],
+  "hints": []
+}
